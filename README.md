@@ -52,9 +52,9 @@ To use the Calendar Event Scheduler:
 
 ## Demo 🎮
 
-You can try out the game and see it in action by visiting the following link:
+You can try out the scheduler and see it in action by visiting the following link:
 
-- [Play the Flag Guessing Game](https://guess-the-flag-makedonkatochevska.netlify.app/)
+- [Play the Flag Guessing Game](https://calendar-event-scheduler-makedonkat.netlify.app/)
 
 ---
 
