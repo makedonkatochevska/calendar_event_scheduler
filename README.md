@@ -54,7 +54,7 @@ To use the Calendar Event Scheduler:
 
 You can try out the scheduler and see it in action by visiting the following link:
 
-- [Play the Flag Guessing Game](https://calendar-event-scheduler-makedonkat.netlify.app/)
+- [Try the event scheduler](https://calendar-event-scheduler-makedonkat.netlify.app/)
 
 ---
 
