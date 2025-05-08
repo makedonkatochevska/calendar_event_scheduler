@@ -4,7 +4,7 @@
 
 <details>
   <summary>Click to expand</summary>
-  - 📜 Exercise: Guess the Country Flag Game <br>
+  - 📜 Project Description <br>
   - ⚙️ Technologies Used <br>
   - 🎮 Demo <br>
   - 🔨 Installation <br>
